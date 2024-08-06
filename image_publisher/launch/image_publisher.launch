@@ -1,0 +1,5 @@
+<launch>
+  <!-- 노드 정의 -->
+  <node name="image_publisher_node" pkg="image_publisher" type="image_publisher.py" output="screen">
+  </node>
+</launch>

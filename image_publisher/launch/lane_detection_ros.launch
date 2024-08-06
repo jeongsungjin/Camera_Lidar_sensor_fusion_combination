@@ -1,0 +1,7 @@
+<launch>
+  <!-- 이미지 퍼블리셔 노드 -->
+  <node name="image_publisher_node" pkg="image_publisher" type="image_publisher.py" output="screen"/>
+
+  <!-- 차선 인식 ROS 노드 -->
+  <node name="lane_detection_ros_node" pkg="image_publisher" type="lane_detector_ros.py" output="screen"/>
+</launch>
