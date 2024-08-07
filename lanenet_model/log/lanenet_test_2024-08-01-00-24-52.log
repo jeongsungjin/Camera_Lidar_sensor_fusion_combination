@@ -1,0 +1,155 @@
+2024-08-01T00:24:52.518738+0900 INFO Start processing video
+2024-08-01T00:24:55.923026+0900 INFO Model weights loaded successfully
+2024-08-01T00:24:57.667679+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:57.671222+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:57.793712+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:57.796869+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:57.913732+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:57.916949+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.019934+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.023276+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.140669+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.143910+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.268959+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.272411+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.384035+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.388025+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.495037+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.498182+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.601850+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.604995+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.708129+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.711312+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.834147+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.837332+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:58.960708+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:58.963979+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.095011+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.098119+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.218456+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.221651+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.342257+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.345512+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.463688+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.466866+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.585890+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.589083+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.710117+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.713248+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.831379+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.834473+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.909354+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.912469+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:24:59.982842+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:24:59.989129+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.093634+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.096856+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.237635+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.240729+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.382162+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.385293+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.519384+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.522456+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.653875+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.657000+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.785094+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.788311+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:00.886309+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:00.889512+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.006713+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.009904+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.131572+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.134710+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.255113+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.258254+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.334246+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.337445+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.436058+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.439235+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.564757+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.568019+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.705846+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.709043+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.842119+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.845402+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:01.980001+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:01.983252+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.117595+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.120694+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.257480+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.260710+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.384260+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.387531+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.513205+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.516661+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.641306+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.644785+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.767376+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.770508+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.866563+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.869817+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:02.966069+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:02.969199+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.089284+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.092900+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.224414+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.227521+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.352111+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.355501+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.493722+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.496895+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.627057+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.630274+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:25:03.739803+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:25:03.743087+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+

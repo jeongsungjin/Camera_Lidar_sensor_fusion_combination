@@ -1,0 +1,71 @@
+import numpy as np
+import cv2
+
+class SlideWindow:
+    def __init__(self):
+        self.window_width = 50
+        self.window_height = 80
+        self.margin = 100
+
+    def slidewindow(self, binary_warped, visualize=False):
+        """
+        슬라이딩 윈도우를 이용하여 차선을 검출하는 함수
+        :param binary_warped: 이진화된 이미지를 입력으로 받습니다.
+        :param visualize: 차선 검출을 시각화할지 여부를 결정합니다.
+        :return: 차선 검출 결과 이미지, 차선 위치, 차선 픽셀
+        """
+        # 이미지의 높이와 너비
+        height, width = binary_warped.shape
+        
+        # 차선의 좌우 차선 위치를 저장하기 위한 리스트
+        left_lane_inds = []
+        right_lane_inds = []
+
+        # 차선 윈도우의 중심을 결정하기 위한 초기 위치
+        center_x = width // 2
+        leftx_current = center_x - 0.5 * self.window_width
+        rightx_current = center_x + 0.5 * self.window_width
+
+        # 윈도우를 단계별로 이동하면서 차선 검출
+        for window in range(int(height // self.window_height)):
+            # 현재 윈도우의 시작 및 끝 y 좌표
+            win_y_low = height - (window + 1) * self.window_height
+            win_y_high = height - window * self.window_height
+
+            # 윈도우의 x 좌표 범위
+            win_xleft_low = int(leftx_current - self.window_width // 2)
+            win_xleft_high = int(leftx_current + self.window_width // 2)
+            win_xright_low = int(rightx_current - self.window_width // 2)
+            win_xright_high = int(rightx_current + self.window_width // 2)
+
+            # 윈도우에서 차선 픽셀 찾기
+            nonzero = binary_warped[win_y_low:win_y_high, :]
+            nonzero_x = np.nonzero(nonzero)[1]
+            left_lane_inds.append(np.where((nonzero_x >= win_xleft_low) & (nonzero_x <= win_xleft_high))[0] + win_xleft_low)
+            right_lane_inds.append(np.where((nonzero_x >= win_xright_low) & (nonzero_x <= win_xright_high))[0] + win_xright_low)
+
+            # 윈도우 중심 업데이트
+            leftx_current = np.mean(nonzero_x[left_lane_inds[-1]]) if len(left_lane_inds[-1]) > 0 else leftx_current
+            rightx_current = np.mean(nonzero_x[right_lane_inds[-1]]) if len(right_lane_inds[-1]) > 0 else rightx_current
+
+        # 검출된 차선 픽셀 위치를 결합
+        left_lane_inds = np.concatenate(left_lane_inds)
+        right_lane_inds = np.concatenate(right_lane_inds)
+
+        # 차선 위치의 좌표
+        left_fit = np.polyfit(left_lane_inds, np.arange(len(left_lane_inds)), 2)
+        right_fit = np.polyfit(right_lane_inds, np.arange(len(right_lane_inds)), 2)
+
+        # 시각화
+        if visualize:
+            out_img = np.dstack((binary_warped, binary_warped, binary_warped)) * 255
+            out_img[np.arange(height - (len(left_lane_inds) // (width // self.window_width)), height), left_lane_inds] = [255, 0, 0]
+            out_img[np.arange(height - (len(right_lane_inds) // (width // self.window_width)), height), right_lane_inds] = [0, 0, 255]
+            return out_img, left_fit, right_fit
+        else:
+            return left_fit, right_fit
+
+# 사용 예시:
+# slidewindow = SlideWindow()
+# binary_warped = np.zeros((480, 640))  # 이진화된 이미지 (예시)
+# out_img, left_fit, right_fit = slidewindow.slidewindow(binary_warped, visualize=True)

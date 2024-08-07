@@ -1,0 +1,51 @@
+2024-07-31T19:09:56.092668+0900 INFO Start processing video
+2024-07-31T19:10:01.093844+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:10:01.094511+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:10:28.407974+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:10:28.435564+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:10:28.436200+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:10:56.373987+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:10:56.403758+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:10:56.404174+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:11:25.472252+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:11:25.509748+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:11:25.510248+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:11:53.407514+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:11:53.438125+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:11:53.438640+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:12:21.015190+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:12:21.047748+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:12:21.048446+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:12:49.248402+0900 ERROR Error during postprocessing: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/color.simd_helpers.hpp:94: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<1>; VDcn = cv::impl::{anonymous}::Set<3, 4>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Unsupported depth of input image:
+>     'VDepth::contains(depth)'
+> where
+>     'depth' is 4 (CV_32S)
+
+2024-07-31T19:12:49.275475+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:12:49.275866+0900 INFO Instance segmentation shape: (256, 512, 4)

@@ -1,0 +1,2 @@
+2024-07-31T18:43:25.914324+0900 INFO Start processing video
+2024-07-31T18:43:30.955601+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.

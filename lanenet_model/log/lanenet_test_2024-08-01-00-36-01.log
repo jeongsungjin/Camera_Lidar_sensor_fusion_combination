@@ -1,0 +1,19 @@
+2024-08-01T00:36:01.136570+0900 INFO Start processing video
+2024-08-01T00:36:04.789447+0900 INFO Model weights loaded successfully
+2024-08-01T00:36:06.248759+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:36:06.252051+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:36:06.252476+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:36:06.252907+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:36:06.253082+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:36:06.253520+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:36:06.254088+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T00:36:06.254448+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T00:36:06.255597+0900 INFO Warped Binary Image Shape: (256, 512)

@@ -214,3 +214,7 @@ catkin_install_python(PROGRAMS
   scripts/lane_detector_ros.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
+catkin_install_python(PROGRAMS
+  scripts/lanenet_processor.py
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)

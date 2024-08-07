@@ -22,7 +22,7 @@
   <!-- <url type="website">http://wiki.ros.org/image_publisher</url> -->
 
 
-  <!-- Author tags are optional, multiple are allowed, one per tag -->
+  <!-- Author tags are optional,a multiple are allowed, one per tag -->
   <!-- Authors do not have to be maintainers, but could be -->
   <!-- Example: -->
   <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
@@ -69,6 +69,6 @@
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
-
+    <node name="lanenet_processor" pkg="image_publisher" type="lanenet_processor.py" output="screen"/>
   </export>
 </package>

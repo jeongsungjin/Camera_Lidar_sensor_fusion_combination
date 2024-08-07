@@ -1,0 +1,801 @@
+2024-08-01T01:03:17.075821+0900 INFO Start processing video
+2024-08-01T01:03:20.451825+0900 INFO Model weights loaded successfully
+2024-08-01T01:03:22.184898+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.188880+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.189409+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.189851+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.190036+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.190494+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.191041+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.191397+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.191578+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.313108+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.316917+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.317408+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.317833+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.318011+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.318475+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.318814+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.319150+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.319329+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.429144+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.432910+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.433453+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.433873+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.434046+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.434474+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.434793+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.435110+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.435305+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.537206+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.540956+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.541473+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.541894+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.542074+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.542541+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.542877+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.543224+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.543417+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.653723+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.657491+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.658029+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.658511+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.658690+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.659147+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.659501+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.659842+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.660003+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.780938+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.784698+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.785225+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.785675+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.785902+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.786376+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.786778+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.787116+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.787299+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:22.894927+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:22.898676+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:22.899212+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:22.899649+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:22.899868+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:22.900309+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:22.900662+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:22.900986+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:22.901147+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.004710+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.008455+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.008972+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.009396+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.009577+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.010053+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.010396+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.010730+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.010906+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.115499+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.119328+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.120142+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.120794+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.120973+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.121528+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.121878+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.122196+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.122354+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.224916+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.228638+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.229170+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.229587+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.229759+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.230192+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.230514+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.230831+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.230990+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.345704+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.349460+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.349980+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.350398+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.350577+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.351040+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.351385+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.351710+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.351872+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.475375+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.479343+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.479921+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.480366+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.480556+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.480999+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.481342+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.481676+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.481848+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.614417+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.618118+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.618861+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.619616+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.619942+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.620425+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.620751+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.621068+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.621237+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.740494+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.744225+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.744760+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.745187+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.745366+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.745820+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.746152+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.746472+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.746631+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.858667+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.862393+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.863191+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.863960+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.864247+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.864675+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.865000+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.865316+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.865473+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:23.989732+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:23.993633+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:23.994161+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:23.994557+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:23.994730+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:23.995136+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:23.995467+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:23.995785+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:23.995943+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.111430+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.115146+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.115720+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.116230+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.116468+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.116924+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.117258+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.117582+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.117744+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.247771+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.251736+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.252423+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.253112+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.253347+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.253830+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.254215+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.254591+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.254773+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.369563+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.373498+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.374368+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.375064+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.375290+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.375756+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.376113+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.376442+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.376605+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.452481+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.457822+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.458451+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.458941+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.459141+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.459723+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.460217+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.460786+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.461024+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.536065+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.540219+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.540754+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.541171+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.541364+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.541806+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.542174+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.542510+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.542672+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.644413+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.648441+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.648988+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.649477+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.649686+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.650132+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.650503+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.650844+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.651021+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.805273+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.809744+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.810282+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.810733+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.810927+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.811403+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.811769+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.812097+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.812273+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:24.978337+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:24.982235+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:24.982744+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:24.983176+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:24.983583+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:24.984421+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:24.985094+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:24.985775+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:24.986176+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.129135+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.133204+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.133732+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.134171+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.134364+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.134804+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.135185+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.135542+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.135729+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.268907+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.273775+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.274373+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.274845+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.275044+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.275488+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.275855+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.276222+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.276401+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.407673+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.411652+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.412529+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.413323+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.413607+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.414029+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.414392+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.414720+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.414883+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.512736+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.516647+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.517522+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.518028+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.518238+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.518727+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.519115+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.519615+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.519865+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.635258+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.639401+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.639924+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.640339+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.640529+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.640959+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.641321+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.641658+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.641836+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.759461+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.763367+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.764158+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.764843+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.765130+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.765553+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.765869+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.766186+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.766344+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.883187+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.886938+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.887474+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.887893+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.888067+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.888496+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.888814+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.889132+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.889290+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:25.962980+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:25.966723+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:25.967241+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:25.967660+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:25.967832+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:25.968243+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:25.968560+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:25.968878+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:25.969038+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.062279+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.066023+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.066514+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.066921+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.067099+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.067549+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.067883+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.068213+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.068380+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.190195+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.193896+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.194514+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.195098+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.195304+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.195798+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.196128+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.196499+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.196726+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.331614+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.335401+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.335896+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.336304+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.336482+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.336926+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.337263+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.337593+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.337758+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.468992+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.472735+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.473482+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.474173+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.474471+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.474900+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.475262+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.475598+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.475763+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.607395+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.611098+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.611662+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.612073+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.612262+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.612682+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.613021+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.613351+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.613527+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.744333+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.748080+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.748610+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.749036+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.749229+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.749671+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.749997+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.750316+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.750475+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:26.886924+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:26.890617+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:26.891377+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:26.892167+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:26.892476+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:26.892930+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:26.893252+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:26.893571+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:26.893744+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.015066+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.018744+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.019543+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.020306+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.020631+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.021132+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.021466+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.021784+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.021944+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.146798+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.150981+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.151830+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.152443+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.152625+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.153124+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.153467+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.153788+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.153967+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.280505+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.284421+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.285207+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.285975+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.286281+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.286775+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.287107+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.287478+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.287650+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.405893+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.409971+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.410508+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.410952+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.411146+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.411644+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.412018+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.412367+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.412651+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.510458+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.514534+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.515064+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.515553+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.515754+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.516224+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.516616+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.516967+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.517133+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.611197+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.615734+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.616307+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.616784+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.616985+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.617418+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.617786+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.618129+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.618294+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.735736+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.740005+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.740620+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.741079+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.741272+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.741697+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.742128+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.742509+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.742676+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined
+2024-08-01T01:03:27.876585+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:03:27.880666+0900 INFO Source Points: [[100. 460.]
+ [270. 320.]
+ [242. 320.]
+ [412. 460.]]
+2024-08-01T01:03:27.881268+0900 INFO Destination Points: [[128. 460.]
+ [384.   0.]
+ [384.   0.]
+ [128. 460.]]
+2024-08-01T01:03:27.881771+0900 INFO Perspective transform matrix: [[ 4.13908390e-15 -8.83406593e+00  5.09397802e+03]
+ [ 2.09713584e-14  2.64476305e+01 -8.46324176e+03]
+ [ 3.90408097e-17  1.53245192e-02  1.00000000e+00]]
+2024-08-01T01:03:27.881979+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:03:27.882512+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:03:27.882924+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:03:27.883362+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:03:27.883581+0900 ERROR OpenCV Error during warpPerspective: name 'width' is not defined

@@ -1,0 +1,3 @@
+2024-07-31T16:46:15.545085+0900 INFO Start processing video
+2024-07-31T16:46:20.673691+0900 INFO Model have fitted 1 lanes
+2024-07-31T16:46:20.674228+0900 INFO Fitted 2-order lane 1 curve param: [3.15637895e-07 2.03025145e-01 1.97986027e+02]

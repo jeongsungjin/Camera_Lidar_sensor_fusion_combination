@@ -1,0 +1,5 @@
+<launch>
+  <node name="image_publisher_node" pkg="image_publisher" type="image_publisher.py" output="screen"/>
+
+  <node pkg="image_publisher" type="lanenet_processor.py" name="lanenet_processor" output="screen"/>
+</launch>

@@ -1,0 +1,755 @@
+2024-07-31T19:08:16.994278+0900 INFO Start processing video
+2024-07-31T19:08:22.007288+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.007971+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.008572+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.023300+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.023786+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.024053+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.039809+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.040183+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.040387+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.054623+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.055020+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.055285+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.068671+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.069219+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.069510+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.083336+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.083683+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.083871+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.101699+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.102363+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.102869+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.119094+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.119579+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.119859+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.134909+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.135337+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.135562+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.149912+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.150279+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.150565+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.165108+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.165629+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.166006+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.181021+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.181386+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.181786+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.196577+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.197073+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.197321+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.211814+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.212254+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.212511+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.227139+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.227497+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.227754+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.242201+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.242609+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.242845+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.258249+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.258905+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.259199+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.276836+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.277180+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.277377+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.292356+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.292807+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.293076+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.309598+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.310255+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.310556+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.326813+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.327157+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.327348+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.341665+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.342192+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.342447+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.358985+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.359441+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.359719+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.374752+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.375161+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.375414+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.390536+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.390915+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.391155+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.404727+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.405130+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.405356+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.421089+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.421572+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.421807+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.436363+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.436846+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.437119+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.452094+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.452454+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.452637+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.466952+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.467404+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.467668+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.483611+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.484231+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.484495+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.499699+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.500047+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.500226+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.514399+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.514796+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.515033+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.530040+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.530503+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.530806+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.545060+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.545478+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.545691+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.559786+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.560156+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.560352+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.575876+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.576304+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.576553+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.590851+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.591333+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.591546+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.609778+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.610397+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.610755+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.627153+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.627624+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.627884+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.643715+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.644134+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.644412+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.658466+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.658801+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.658987+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.675142+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.675509+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.675692+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.690068+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.690462+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.690693+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.706178+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.706641+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.706874+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.722190+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.722558+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.722758+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.737959+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.738290+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.738469+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.753357+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.753842+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.754071+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.768772+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.769125+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.769314+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.784994+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.785355+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.785548+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.801560+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.801911+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.802107+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.817466+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.817815+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.817998+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.832556+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.833002+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.833270+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.848089+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.848444+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.848648+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.864169+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.864641+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.864902+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.880625+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.881066+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.881328+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.895311+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.895676+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.895902+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.910604+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.911175+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.911470+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.928184+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.928707+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.929032+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.947772+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.948350+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.948791+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.966174+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.966533+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.966723+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:22.982290+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:22.982704+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:22.982953+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.000799+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.001455+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.001747+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.017871+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.018219+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.018413+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.033876+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.034222+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.034398+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.050148+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.050590+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.050846+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.066202+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.066593+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.066802+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.081801+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.082180+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.082385+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.096501+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.096915+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.097167+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.111581+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.111999+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.112224+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.127362+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.127799+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.128042+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.144167+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.144659+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.145029+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.159661+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.160079+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.160339+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.175694+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.176151+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.176384+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.192209+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.192618+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.192819+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.207356+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.207790+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.208062+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.223544+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.224139+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.224516+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.242455+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.242794+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.242992+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.258240+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.258653+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.258895+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.274383+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.274751+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.274944+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.289986+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.290357+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.290557+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.306451+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.306828+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.307018+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.322986+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.323446+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.323674+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.339340+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.339706+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.339895+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.355624+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.356196+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.356497+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.371357+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.371836+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.372145+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.388116+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.388458+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.388670+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.402373+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.402860+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.403056+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.418178+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.418560+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.418776+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.433568+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.433924+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.434138+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.448227+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.448650+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.448914+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.464821+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.465171+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.465347+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.480495+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.480934+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.481192+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.496009+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.496362+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.496542+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.510821+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.511262+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.511527+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.527961+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.528613+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.528911+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.543336+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.543679+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.543907+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.562943+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.563386+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.563755+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.579371+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.579775+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.580011+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.595138+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.595538+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.595735+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.612132+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.612682+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.613012+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.629157+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.629781+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.630063+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.645063+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.645508+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.645766+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.660137+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.660602+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.660861+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.676967+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.677418+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.677794+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.693957+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.694589+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.694851+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.711237+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.711593+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.711786+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.727460+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.727846+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.728071+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.742385+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.742891+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.743157+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.760331+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.761077+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.761374+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.778095+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.778580+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.779003+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.793687+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.794063+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.794355+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.809205+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.809568+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.809857+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.824922+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.825291+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.825574+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.840140+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.840497+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.840774+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.854264+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.854703+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.854991+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.869540+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.870017+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.870297+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.886165+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.886517+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.886780+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.902053+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.902530+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.902788+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.916344+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.916729+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.916949+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.931215+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.931670+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.931944+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.946765+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.947182+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.947530+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.963108+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.963478+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.963733+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.979743+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.980153+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.980392+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:23.995262+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:23.995637+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:23.995878+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.009911+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.010324+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.010560+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.026120+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.026464+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.026729+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.042671+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.043034+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.043262+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.058738+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.059210+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.059474+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.074469+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.075071+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.075618+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.091051+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.091446+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.091736+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.105911+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.106294+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.106588+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.121748+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.122230+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.122509+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.136970+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.137371+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.137693+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.152238+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.152606+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.152851+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.168926+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.169391+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.169672+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.183967+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.184338+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.184540+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.198233+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.198672+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.198954+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.218413+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.219004+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.219429+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.232635+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.232983+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.233192+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.249650+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.250022+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.250228+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.266894+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.267354+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.267620+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.283352+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.283967+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.284334+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.300424+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.300755+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.300947+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.316454+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.316814+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.317038+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.331174+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.331580+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.331807+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.345286+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.345852+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.346142+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.360290+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.360663+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.360867+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.376126+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.376532+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.376785+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.392189+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.392518+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.392702+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.407059+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.407432+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.407638+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.422549+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.422936+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.423160+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.441504+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.441859+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.442050+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.458277+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.458650+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.458847+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.475556+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.475935+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.476201+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.490414+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.490783+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.490976+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.505383+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.505810+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.506063+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.522444+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.523052+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.523459+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.538970+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.539591+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.539940+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.555373+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.555810+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.556097+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.570739+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.571077+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.571298+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.585467+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.585950+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.586305+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.601910+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.602247+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.602435+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.618189+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.618685+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.618935+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.634869+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.635217+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.635498+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.650358+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.650712+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.650905+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.666680+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.667254+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.667551+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.682464+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.682837+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.683017+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.697304+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.697761+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.697993+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.713564+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.714046+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.714399+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.729867+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.730412+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.730703+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.747095+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.747466+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.747659+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.763487+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.764023+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.764353+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.777139+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.777490+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.777728+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.792405+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.792884+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.793169+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.808476+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.808856+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.809052+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.823626+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.824079+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.824357+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.839486+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.839978+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.840290+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.856577+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.857013+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.857265+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.872247+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.872712+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.873119+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.887115+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.887542+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.887793+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.901512+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.901909+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.902125+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.917002+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.917362+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.917542+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.932508+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.932887+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.933069+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.946675+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.947046+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.947319+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.961105+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.961597+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.962032+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.977483+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.977832+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.978098+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:24.992466+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:24.992821+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:24.993107+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.009230+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.009585+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.009869+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.024554+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.024918+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.025191+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.039686+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.040035+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.040313+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.055480+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.055887+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.056199+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.072082+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.072585+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.072907+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.090422+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.091008+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.091543+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.108162+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.108765+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.109130+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.124433+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.124799+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.125000+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.141133+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.141590+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.141938+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.156537+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.156880+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.157061+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.173065+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.173663+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.174048+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.189251+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.189699+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.189974+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.206009+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.206619+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.206960+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.224586+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.225056+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.225463+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.240310+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.240752+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.240999+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.256942+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.257396+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.257682+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.271549+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.272023+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.272310+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.286802+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.287123+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.287367+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.304195+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.304806+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.305173+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.324060+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.324651+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.325012+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.340850+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.341256+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.341533+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.357856+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.358404+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.358661+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.374687+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.375044+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.375314+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.390264+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.390625+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.390828+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.405950+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.406302+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.406503+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.420128+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.420624+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.420916+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.437605+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.438209+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.438571+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.452667+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.453021+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.453221+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.469503+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.469993+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.470272+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.485302+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.485649+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.485846+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.501711+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.502088+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.502299+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.518318+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.518739+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.518972+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.533742+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.534094+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.534290+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.548490+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.548864+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.549093+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.563565+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.564035+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.564303+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.580311+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.580692+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.580910+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.597526+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.598005+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.598305+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.613049+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.613423+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.613618+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.628775+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.629272+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.629522+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.644831+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.645181+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.645391+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.660392+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.660955+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.661372+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.675625+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.675973+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.676248+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.690723+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.691207+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.691646+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.707096+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.707525+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.707763+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.722722+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.723102+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.723351+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.736617+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.736956+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.737140+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.752980+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.753369+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.753602+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.766946+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.767400+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.767669+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.783728+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.784141+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.784381+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.799038+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.799438+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.799630+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.815391+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.815888+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.816180+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.830598+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.830973+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.831165+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.845774+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.846273+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.846597+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.860297+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.860833+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.861086+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.877317+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.877927+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.878217+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.892588+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.892989+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.893264+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.908089+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.908608+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.908856+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.924206+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.924565+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.924768+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.939363+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.939811+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.940088+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.955937+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.956263+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.956454+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.972162+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.972552+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.972796+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:25.987073+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:25.987501+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:25.987758+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:26.004129+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:08:26.004719+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:08:26.005087+0900 ERROR Error during postprocessing: 'CustomLaneNetPostProcessor' object has no attribute 'generate_mask'
+2024-07-31T19:08:26.023782+0900 INFO Video processing complete.

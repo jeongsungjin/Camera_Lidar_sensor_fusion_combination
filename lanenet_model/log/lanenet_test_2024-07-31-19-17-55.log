@@ -1,0 +1,15 @@
+2024-07-31T19:17:55.801280+0900 INFO Start processing video
+2024-07-31T19:18:00.750308+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:18:00.750968+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:18:27.830167+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:18:27.861782+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:18:27.862240+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:18:54.532062+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:18:54.600225+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:18:54.600789+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:19:21.584413+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:19:21.639756+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:19:21.640440+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:19:48.613350+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:19:48.672562+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:19:48.672974+0900 INFO Instance segmentation shape: (256, 512, 4)

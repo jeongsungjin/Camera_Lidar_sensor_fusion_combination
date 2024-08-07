@@ -1,0 +1,5 @@
+2024-07-29T16:05:45.923246+0900 INFO Start reading image and preprocessing
+2024-07-29T16:05:45.941272+0900 INFO Image load complete, cost time: 0.01765s
+2024-07-29T16:07:04.758379+0900 INFO Single image inference cost time: 0.15156s
+2024-07-29T16:07:04.758840+0900 INFO Binary segmentation image shape: (1, 256, 512)
+2024-07-29T16:07:04.759090+0900 INFO Instance segmentation image shape: (1, 256, 512, 4)

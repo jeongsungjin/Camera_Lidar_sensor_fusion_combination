@@ -1,0 +1,472 @@
+2024-07-31T19:01:38.045589+0900 INFO Start processing video
+2024-07-31T19:01:43.018427+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.019090+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.038008+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.038533+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.054771+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.055148+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.071195+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.071545+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.086455+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.086913+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.104268+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.104819+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.121380+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.121886+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.139309+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.139654+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.156283+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.156874+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.172638+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.172992+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.189325+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.189758+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.205641+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.205979+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.224347+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.225107+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.244971+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.245454+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.261320+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.261714+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.277724+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.278143+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.295524+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.295951+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.312995+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.313469+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.330540+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.330919+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.348373+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.349293+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.366275+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.366773+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.382370+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.382986+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.402109+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.402618+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.417659+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.418037+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.435765+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.436476+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.453625+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.454203+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.472546+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.473190+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.490314+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.490855+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.507530+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.508159+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.525442+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.525831+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.541585+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.541924+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.557880+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.558244+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.573319+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.573824+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.590835+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.591480+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.608686+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.609159+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.626390+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.626807+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.642495+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.642949+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.660761+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.661240+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.676563+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.676999+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.692144+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.692661+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.710980+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.711424+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.730584+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.731180+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.749003+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.749693+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.764485+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.764832+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.782475+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.783067+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.799393+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.799812+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.816049+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.816577+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.832575+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.832913+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.848399+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.848785+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.864308+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.864880+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.880709+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.881224+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.898527+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.899111+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.916215+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.916782+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.933256+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.933798+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.949672+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.950103+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.968842+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.969360+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:43.985062+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:43.985446+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.001329+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.001689+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.075069+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.096257+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.096606+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.125378+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.158402+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.158845+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.178234+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.178610+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.206712+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.237528+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.261746+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.262179+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.281179+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.281578+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.302610+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.303000+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.322354+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.322778+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.341762+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.342093+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.361419+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.361912+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.381273+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.381705+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.401511+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.401928+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.422065+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.422416+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.441146+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.441501+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.461319+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.461665+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.481454+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.482002+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.503427+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.503877+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.524528+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.524974+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.544984+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.545453+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.570900+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.595165+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.595728+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.616252+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.616669+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.635424+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.635819+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.654360+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.654896+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.673928+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.674573+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.693629+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.694065+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.713876+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.714436+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.733585+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.734016+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.752479+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.753007+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.772181+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.772561+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.789960+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.790353+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.806751+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.807125+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.825799+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.826268+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.844360+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.844928+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.864894+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.865649+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.886823+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.887284+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.905678+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.906114+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.938264+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:44.961848+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.962236+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:44.982586+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:44.982955+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.012640+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.051637+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.085073+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.116777+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.147713+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.183491+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.220835+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.257892+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.294698+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.329421+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.355419+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.355823+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.374384+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.374799+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.401588+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.431742+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.463934+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.490067+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.490404+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.517130+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.549631+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.585194+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.618532+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.644301+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.644780+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.672409+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.706219+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.740654+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.779906+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.809892+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.810359+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.838219+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:45.866023+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.866543+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.887134+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.887598+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.906359+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.906762+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.927023+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.927441+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.947292+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.947681+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.966753+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.967220+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:45.987644+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:45.988049+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.010706+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.011356+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.030296+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.030693+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.061875+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:46.087424+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.087978+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.108844+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.109258+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.130848+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.131533+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.152883+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.153411+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.180444+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:46.216816+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:46.244989+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.245681+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.266163+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.266771+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.287828+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.288241+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.315435+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:01:46.339376+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.339744+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.360782+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.361401+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.381014+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.381440+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.401648+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.402039+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.422110+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.422480+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.443291+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.443776+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.461954+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.462480+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.483796+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.484238+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.502928+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.503305+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.521785+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.522330+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.542467+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.542828+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.562971+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.563739+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.584461+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.584953+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.604946+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.605599+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.626951+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.627473+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.646228+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.646712+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.666571+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.666947+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.685631+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.685957+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.706184+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.706519+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.728147+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.728796+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.749326+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.749812+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.770082+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.770790+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.791540+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.792038+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.810725+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.811287+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.831320+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.831809+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.852801+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.853346+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.871782+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.872229+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.893368+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.893881+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.915976+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.916622+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.934799+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.935138+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.955326+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.956238+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.977333+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.977767+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:46.996971+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:46.997558+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.019166+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.019726+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.039897+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.040399+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.058174+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.058643+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.078636+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.079005+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.101035+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.101676+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.122463+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.122836+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.142173+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.142543+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.165003+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.165507+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.186335+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.186879+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.208272+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.208902+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.229909+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.230265+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.247788+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.248204+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.270631+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.271189+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.292235+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.292833+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.312210+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.312814+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.333107+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.333471+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.353095+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.353549+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.374284+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.374662+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.393987+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.394549+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.415783+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.416318+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.435245+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.435595+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.454181+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.454565+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.475740+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.476279+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.495666+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.496339+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.517158+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.517840+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.538783+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.539393+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.559531+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.560041+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.580289+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.580943+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.601773+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.602300+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.621748+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.622184+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.642377+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.642935+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.664541+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.665081+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.685807+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.686294+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.704684+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.705043+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.725147+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.725537+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.744634+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.745150+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.765593+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.766042+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.787086+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.787573+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.806815+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.807542+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.827386+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.827943+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.850928+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.851726+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.871331+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.871732+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.891458+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.891935+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.914872+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.915355+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.935390+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.935993+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.955958+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.956650+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.977477+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.978190+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:47.996959+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:47.997535+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.017099+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.017446+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.039525+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.040035+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.059210+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.059764+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.079566+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.080077+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.099943+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.100435+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.122880+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.123282+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.143931+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.144497+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.165253+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.165863+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.189390+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.189797+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.209733+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.210327+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.231403+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.231795+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.253604+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.254139+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.273870+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.274511+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.294932+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.295474+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.316274+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.316857+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.338204+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.338894+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.358994+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.359562+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.381344+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.381745+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.402264+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.402999+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.421336+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.421808+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.441154+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.441575+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.461530+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:01:48.461938+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:01:48.500985+0900 INFO Video processing complete.

@@ -1,0 +1,1107 @@
+2024-08-01T01:56:09.195122+0900 INFO Start processing video
+2024-08-01T01:56:12.843754+0900 INFO Model weights loaded successfully
+2024-08-01T01:56:14.312661+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:14.316605+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:14.317099+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:14.317513+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:14.317690+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:14.318111+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:14.318498+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:14.318854+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:14.319987+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:14.514799+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:14.519004+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:14.519958+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:14.520762+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:14.521064+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:14.521539+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:14.521971+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:14.522320+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:14.523508+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:14.694577+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:14.698674+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:14.699529+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:14.700208+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:14.700384+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:14.700829+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:14.701188+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:14.701534+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:14.702685+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:14.826850+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:14.831120+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:14.831726+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:14.832217+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:14.832406+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:14.832941+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:14.833328+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:14.833697+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:14.834801+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:14.969574+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:14.973762+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:14.974297+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:14.974839+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:14.975033+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:14.975587+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:14.975993+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:14.976386+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:14.977559+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.116934+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.121233+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.121736+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.122168+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.122358+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.122805+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.123183+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.123538+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.124810+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.254112+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.257931+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.258425+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.258853+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.259031+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.259511+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.259858+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.260176+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.261345+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.383896+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.387699+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.388382+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.388888+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.389069+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.389621+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.390018+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.390403+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.391510+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.506394+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.510192+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.510766+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.511259+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.511441+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.511960+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.512334+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.512713+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.513769+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.632839+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.636612+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.637188+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.637661+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.637854+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.638389+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.638782+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.639147+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.640263+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.767865+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.771682+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.772262+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.772734+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.772926+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.773460+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.773842+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.774216+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.775282+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:15.911021+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:15.914785+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:15.915325+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:15.915773+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:15.915955+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:15.916416+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:15.916755+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:15.917111+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:15.918200+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.059941+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.063636+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.064361+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.065044+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.065333+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.065806+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.066131+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.066449+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.067527+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.202824+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.206625+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.207134+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.207646+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.207836+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.208300+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.208658+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.209002+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.210101+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.345432+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.349166+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.349673+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.350098+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.350286+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.350722+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.351094+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.351435+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.352557+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.483738+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.487500+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.488028+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.488457+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.488636+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.489127+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.489479+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.489829+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.490994+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.621561+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.625384+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.625898+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.626325+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.626504+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.626967+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.627447+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.628204+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.629901+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.771215+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.775000+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.775548+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.775985+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.776170+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.776648+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.777024+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.777374+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.778456+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:16.912245+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:16.915986+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:16.916488+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:16.916908+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:16.917088+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:16.917545+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:16.917884+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:16.918239+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:16.919344+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.009838+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.013668+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.014179+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.014601+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.014783+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.015254+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.015607+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.015955+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.017056+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.099471+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.103288+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.103797+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.104218+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.104401+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.104859+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.105200+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.105556+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.106653+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.218018+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.221753+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.222254+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.222668+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.222843+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.223308+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.223657+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.223976+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.225093+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.373654+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.377420+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.377951+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.378406+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.378585+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.379049+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.379421+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.379750+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.380895+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.536514+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.540314+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.540879+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.541282+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.541455+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.541887+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.542211+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.542528+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.543571+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.692489+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.696176+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.696702+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.697176+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.697370+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.697894+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.698276+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.698652+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.699473+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:17.850912+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:17.854795+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:17.855313+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:17.855742+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:17.855932+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:17.856352+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:17.856678+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:17.857000+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:17.858077+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.004322+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.008520+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.009031+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.009487+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.009690+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.010236+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.010759+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.011139+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.012281+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.126218+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.129956+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.130707+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.131484+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.131775+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.132227+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.132553+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.132919+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.134021+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.279484+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.282983+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.283561+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.284034+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.284238+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.284695+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.285159+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.285510+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.286608+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.421716+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.425500+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.426307+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.427069+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.427316+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.427792+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.428208+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.428571+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.429709+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.563316+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.567075+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.567644+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.568065+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.568247+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.568720+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.569063+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.569419+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.570529+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.660246+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.664006+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.664542+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.664956+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.665136+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.665566+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.665913+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.666249+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.667388+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.781961+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.785733+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.786338+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.786797+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.787007+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.787481+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.787842+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.788186+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.789358+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:18.930864+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:18.934616+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:18.935149+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:18.935637+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:18.935816+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:18.936352+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:18.936712+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:18.937039+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:18.938083+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.087396+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.091104+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.091661+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.092096+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.092282+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.092738+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.093071+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.093400+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.094442+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.241356+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.245074+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.245628+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.246088+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.246281+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.246838+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.247247+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.247637+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.248759+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.404131+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.407929+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.408468+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.408900+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.409117+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.409602+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.409929+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.410251+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.411313+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.558363+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.562131+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.562666+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.563094+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.563284+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.563717+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.564046+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.564366+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.565452+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.716412+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.720121+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.720636+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.721063+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.721241+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.721722+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.722083+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.722433+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.723579+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:19.855029+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:19.858750+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:19.859301+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:19.859712+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:19.859892+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:19.860338+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:19.860663+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:19.860982+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:19.862026+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.005917+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.009716+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.010224+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.010627+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.010817+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.011301+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.011669+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.012017+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.013225+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.150646+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.154619+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.155131+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.155572+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.155743+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.156171+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.156494+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.156813+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.157890+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.292867+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.296688+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.297355+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.297823+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.298039+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.298527+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.298919+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.299285+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.300436+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.423897+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.429331+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.430226+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.431022+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.431416+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.432114+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.432789+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.433303+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.434528+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.545341+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.549247+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.549956+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.550388+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.550587+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.551023+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.551405+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.551756+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.552827+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.707379+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.711783+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.712339+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.712830+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.713039+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.713502+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.713902+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.714237+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.715398+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:20.865378+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:20.869753+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:20.870383+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:20.870849+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:20.871062+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:20.871511+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:20.871880+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:20.872214+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:20.873260+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.012670+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.017002+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.017666+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.018153+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.018393+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.018912+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.019409+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.019811+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.021046+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.172877+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.177190+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.177874+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.178345+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.178584+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.179037+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.179431+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.179849+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.181013+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.322639+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.327575+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.328212+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.328795+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.329026+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.329524+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.329958+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.330444+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.331650+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.454720+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.459665+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.460332+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.460861+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.461084+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.461660+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.462054+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.462434+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.464260+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.604168+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.611627+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.612543+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.613352+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.613714+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.614385+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.614979+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.615557+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.618177+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.772862+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.777581+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.778182+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.778662+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.778870+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.779332+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.779723+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.780074+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.781112+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:21.922188+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:21.926646+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:21.927579+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:21.928249+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:21.928463+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:21.928943+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:21.929341+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:21.929710+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:21.930877+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.068457+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.072735+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.073328+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.073818+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.074009+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.074518+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.075008+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.075514+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.076725+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.221818+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.226410+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.227129+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.227683+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.227891+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.228356+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.228770+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.229132+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.230214+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.350219+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.354815+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.355428+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.355884+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.356161+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.356651+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.357045+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.357405+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.359261+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.498104+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.502560+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.503474+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.504121+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.504338+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.504821+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.505223+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.505622+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.506760+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.651737+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.655937+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.656574+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.657076+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.657276+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.657843+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.658326+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.658899+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.660118+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.797234+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.801595+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.802493+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.803343+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.803716+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.804469+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.805042+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.805440+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.806595+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:22.982522+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:22.986994+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:22.987614+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:22.988104+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:22.988311+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:22.988866+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:22.989331+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:22.989756+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:22.991680+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:23.170787+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:23.174577+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:23.175202+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:23.175737+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:23.175938+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:23.176401+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:23.176758+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:23.177217+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:23.178422+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:23.322425+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:23.327395+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:23.328139+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:23.328736+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:23.329005+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:23.329653+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:23.330153+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:23.330619+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:23.331842+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:23.472397+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:23.476313+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:23.476815+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:23.477280+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:23.477455+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:23.477864+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:23.478190+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:23.478511+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:23.479692+0900 INFO Warped Binary Image Shape: (256, 512)
+2024-08-01T01:56:23.615156+0900 INFO Model has fitted 0 lanes
+2024-08-01T01:56:23.618885+0900 INFO Source Points: [[103. 250.]
+ [200. 182.]
+ [326. 182.]
+ [434. 250.]]
+2024-08-01T01:56:23.619553+0900 INFO Destination Points: [[128. 256.]
+ [128.   0.]
+ [384.   0.]
+ [384. 256.]]
+2024-08-01T01:56:23.619993+0900 INFO Perspective transform matrix: [[-6.05664185e-01 -1.77691184e+00  4.06373948e+02]
+ [ 0.00000000e+00 -2.94815949e+00  5.36565027e+02]
+ [-6.90473528e-19 -7.13241946e-03  1.00000000e+00]]
+2024-08-01T01:56:23.620190+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T01:56:23.620743+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T01:56:23.621131+0900 INFO Binary Image for Warp Shape: (256, 512)
+2024-08-01T01:56:23.621482+0900 INFO Binary Image for Warp Min/Max Values: Min: 0, Max: 255
+2024-08-01T01:56:23.622511+0900 INFO Warped Binary Image Shape: (256, 512)

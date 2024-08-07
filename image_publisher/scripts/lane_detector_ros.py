@@ -33,7 +33,6 @@ class LaneDetectionROS:
 
         # 트랙바와 이미지 윈도우 창을 띄운 상태로 ROS 스핀
         rospy.spin()
-
     def image_callback(self, msg):
         try:
             # ROS 이미지 메시지를 OpenCV 이미지로 변환

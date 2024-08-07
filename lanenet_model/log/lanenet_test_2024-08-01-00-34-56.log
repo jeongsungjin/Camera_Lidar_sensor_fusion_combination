@@ -1,0 +1,466 @@
+2024-08-01T00:34:56.541775+0900 INFO Start processing video
+2024-08-01T00:35:00.183943+0900 INFO Model weights loaded successfully
+2024-08-01T00:35:01.652405+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:01.655695+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.656127+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.656557+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:01.656732+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:01.657179+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:01.657807+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:01.780908+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:01.783959+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.784352+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.784765+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:01.784939+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:01.785393+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:01.785887+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:01.895766+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:01.898713+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.899136+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:01.899597+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:01.899776+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:01.900262+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:01.900844+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.006502+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.009521+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.009944+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.010374+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.010553+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.011031+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.011556+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.124371+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.127353+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.127781+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.128221+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.128431+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.128887+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.129422+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.249052+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.252084+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.252512+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.252956+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.253137+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.253602+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.254104+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.362318+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.365302+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.365727+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.366171+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.366351+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.366815+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.367422+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.475265+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.478223+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.478645+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.479088+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.479303+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.479766+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.480313+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.583382+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.586363+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.586789+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.587253+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.587435+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.587901+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.588449+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.692722+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.695717+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.696143+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.696583+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.696762+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.697226+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.697749+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.813569+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.816555+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.816974+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.817396+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.817574+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.818057+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.818545+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:02.938722+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:02.941701+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.942129+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:02.942568+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:02.942746+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:02.943210+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:02.943756+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.068212+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.071409+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.071961+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.072440+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.072622+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.073146+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.073686+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.193310+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.196298+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.196759+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.197210+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.197400+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.197861+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.198398+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.318271+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.321269+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.321750+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.322204+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.322384+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.322824+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.323345+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.439478+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.442467+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.442898+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.443331+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.443513+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.443987+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.444511+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.560908+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.563870+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.564290+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.564721+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.564902+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.565364+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.565890+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.689149+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.692196+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.692660+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.693232+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.693476+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.693908+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.694414+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.815872+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.818821+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.819276+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.819762+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.820061+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.820703+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.821308+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.896417+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.899372+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.899773+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.900232+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.900430+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.900887+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.901466+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:03.974294+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:03.977324+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.977719+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:03.978138+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:03.978316+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:03.978783+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:03.979313+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.079296+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.082276+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.082689+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.083119+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.083325+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.083795+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.084354+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.224790+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.227753+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.228172+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.228610+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.228796+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.229258+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.229795+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.372733+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.375716+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.376160+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.376603+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.376781+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.377254+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.377756+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.512410+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.515397+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.515825+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.516269+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.516466+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.516940+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.517921+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.647141+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.650148+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.650571+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.651010+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.651252+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.651709+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.652230+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.775291+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.778392+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.778870+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.779319+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.779494+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.779925+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.780471+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.877764+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.880715+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.881120+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.881550+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.881728+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.882150+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.882717+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+
+2024-08-01T00:35:04.994208+0900 INFO Model has fitted 0 lanes
+2024-08-01T00:35:04.997136+0900 INFO Source Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.997672+0900 INFO Destination Points: [[100. 256.]
+ [412. 256.]
+ [412.   0.]
+ [100.   0.]]
+2024-08-01T00:35:04.998113+0900 INFO Perspective transform matrix: [[ 1.00000000e+00  7.11681426e-17  1.88723681e-14]
+ [-2.34371204e-17  1.00000000e+00  9.38280792e-15]
+ [-4.44800891e-19  7.11681426e-19  1.00000000e+00]]
+2024-08-01T00:35:04.998294+0900 INFO Binary Segmentation Image Shape: (256, 512)
+2024-08-01T00:35:04.998780+0900 INFO Binary Segmentation Image Min/Max Values: Min: 0, Max: 1
+2024-08-01T00:35:04.999321+0900 ERROR OpenCV Error during warpPerspective: OpenCV(4.4.0) /tmp/pip-req-build-690f5c7p/opencv/modules/imgproc/src/imgwarp.cpp:1800: error: (-215:Assertion failed) ifunc != 0 in function 'remap'
+

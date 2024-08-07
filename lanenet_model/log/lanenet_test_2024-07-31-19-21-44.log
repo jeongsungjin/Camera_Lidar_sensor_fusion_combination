@@ -1,0 +1,7 @@
+2024-07-31T19:21:44.673271+0900 INFO Start processing video
+2024-07-31T19:21:44.690930+0900 INFO Video FPS: 25.0
+2024-07-31T19:21:49.677828+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:21:49.678499+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:22:16.615204+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:22:16.647342+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:22:16.648072+0900 INFO Instance segmentation shape: (256, 512, 4)

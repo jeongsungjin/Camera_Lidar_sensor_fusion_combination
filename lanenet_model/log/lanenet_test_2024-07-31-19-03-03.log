@@ -1,0 +1,974 @@
+2024-07-31T19:03:03.400566+0900 INFO Start processing video
+2024-07-31T19:03:08.354923+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.355604+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.358053+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.358600+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.375606+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.376074+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.377880+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.378223+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.393605+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.394017+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.395888+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.396183+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.410729+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.411355+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.413461+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.413824+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.428880+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.429380+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.431372+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.431654+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.451547+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.452174+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.454350+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.454850+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.470297+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.470941+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.473255+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.473576+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.488230+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.488719+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.490588+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.491004+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.505263+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.505736+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.507662+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.508150+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.523484+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.523896+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.525698+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.526157+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.542965+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.543605+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.545932+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.546435+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.561311+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.561666+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.563274+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.563636+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.580181+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.580757+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.582908+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.583359+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.598478+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.598918+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.600878+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.601458+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.616043+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.616564+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.618574+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.619197+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.636717+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.637190+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.639192+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.639559+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.655111+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.655524+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.657289+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.657603+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.674460+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.675115+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.677185+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.677651+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.693108+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.693546+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.695275+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.695544+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.708796+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.709218+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.711011+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.711346+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.726972+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.727441+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.729410+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.729966+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.745177+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.745657+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.747511+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.747852+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.763204+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.763704+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.765573+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.765918+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.779578+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.779948+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.781645+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.781894+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.796172+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.796618+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.798377+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.798684+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.813584+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.813930+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.815712+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.816248+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.831879+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.832219+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.833840+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.834200+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.848964+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.849327+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.850938+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.851372+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.867371+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.867877+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.869911+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.870283+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.885015+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.885371+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.887142+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.887584+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.901376+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.901742+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.903520+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.903785+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.918044+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.918490+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.920274+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.920686+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.938070+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.938568+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.940789+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.941438+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.957588+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.957943+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.959515+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.959758+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.973529+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.973950+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.975697+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.976132+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:08.990647+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:08.991007+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:08.992735+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:08.992974+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.007305+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.007656+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.009282+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.009549+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.024488+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.024845+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.026625+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.026981+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.043023+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.043370+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.045224+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.045773+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.060584+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.060937+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.062536+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.062810+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.077255+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.077616+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.079195+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.079489+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.093331+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.093804+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.095560+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.095888+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.110210+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.110558+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.112281+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.112817+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.127883+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.128204+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.129722+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.129943+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.145772+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.146091+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.147614+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.147831+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.160840+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.161260+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.163148+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.163537+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.181064+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.181735+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.183918+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.184515+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.201175+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.201695+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.203820+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.204255+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.219443+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.219979+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.221958+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.222449+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.239826+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.240372+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.242199+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.242551+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.257865+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.258283+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.260010+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.260415+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.274864+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.275223+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.277260+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.277711+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.294143+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.294707+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.296744+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.297203+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.314800+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.315189+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.316824+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.317174+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.332237+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.332574+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.334394+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.334780+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.350163+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.350511+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.352171+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.352593+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.369783+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.370291+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.372182+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.372545+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.388023+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.388372+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.389950+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.390201+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.404081+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.404446+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.458854+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:09.478179+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.478589+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.482005+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.482311+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.501897+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.502271+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.513237+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:09.541342+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.541765+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.545957+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.546441+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.568134+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.568623+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.570710+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.570989+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.591465+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.592065+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.602174+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:09.628157+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.628539+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.640301+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:09.664748+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.665091+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.667877+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.668258+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.691354+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.691829+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.694121+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.694415+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.713061+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.713460+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.715454+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.715720+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.733941+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.734316+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.737164+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.737693+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.756525+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.756974+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.758724+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.759061+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.776380+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.776795+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.779329+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.779680+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.799548+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.799908+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.802746+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.803082+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.823535+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.824005+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.827095+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.827489+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.847891+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.848344+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.850632+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.850966+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.870794+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.871173+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.873533+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.873935+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.890430+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.890914+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.893212+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.893582+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.913033+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.913514+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.917095+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.917461+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.934494+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.935019+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.936971+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.937560+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.955138+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.955596+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.958283+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.958836+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.975912+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.976307+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:09.979525+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:09.979796+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:09.998998+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:09.999356+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.008591+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.031766+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.032182+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.034146+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.034560+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.053818+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.054160+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.055693+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.056027+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.074463+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.074811+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.076390+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.076656+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.095118+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.095476+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.097067+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.097297+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.116737+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.117273+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.119449+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.120018+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.136506+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.136993+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.138747+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.139078+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.156955+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.157314+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.158973+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.159239+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.176579+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.176930+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.178604+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.178894+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.196588+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.197122+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.199079+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.199517+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.218604+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.218966+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.220544+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.220791+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.241813+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.242476+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.244701+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.245071+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.261879+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.262451+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.264428+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.264869+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.283608+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.284057+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.285612+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.285937+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.306483+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.306837+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.308517+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.308771+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.331620+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.332061+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.333864+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.334185+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.355857+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.356494+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.358402+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.358721+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.379205+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.379695+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.382165+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.382529+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.401358+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.401989+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.415612+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.439192+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.439568+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.442037+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.442320+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.461354+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.462013+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.468575+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.469102+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.485425+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.485785+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.500294+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.523923+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.524484+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.540976+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.563987+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.564329+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.577414+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.602940+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.603326+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.613117+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.638795+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.639163+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.653360+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.677529+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.677866+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.688545+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.713333+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.713680+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.726577+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.749111+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.749543+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.763597+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.787510+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.787906+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.801608+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.846500+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.846860+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.861056+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.883667+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.884010+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.886730+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.886974+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.902985+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.903457+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.905787+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:10.906121+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:10.922653+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.923038+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.931938+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.956847+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.957300+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:10.964880+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:10.989385+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:10.989758+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.002943+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.026591+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.026978+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.030338+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.030819+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.049261+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.049712+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.061406+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.081995+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.082349+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.091759+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.115628+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.115986+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.125057+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.147299+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.147649+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.156825+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.180296+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.180653+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.183491+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.183722+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.201594+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.201952+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.211893+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.236550+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.236887+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.246740+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.271951+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.272613+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.286491+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.312158+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.312718+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.325754+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.351208+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.351808+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.358032+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.358571+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.375210+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.375596+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.383833+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.408928+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.409277+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.412549+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.412772+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.433060+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.433521+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.437553+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.437905+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.457351+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.457797+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.459554+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.459842+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.479393+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.480043+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.482152+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.482711+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.500364+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.500757+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.502449+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.502742+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.522517+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.522910+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.525465+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.525916+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.545162+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.545536+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.547329+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.547727+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.564821+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.565429+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.568410+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.568815+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.587897+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.588322+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.592674+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.593000+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.611611+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.612215+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.624364+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.648988+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.649633+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.652017+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.652290+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.670072+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.670473+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.673331+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.673962+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.695902+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.696287+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.697942+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.698208+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.715339+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.715989+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.718186+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.718675+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.737471+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.737855+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.747060+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.771442+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.771832+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.783499+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.806202+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.806765+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.809760+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.810274+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.828988+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.829363+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.831200+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.831637+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.849138+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.849663+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.852924+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.853716+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.873068+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.873551+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.883541+0900 INFO Model has fitted 0 lanes
+2024-07-31T19:03:11.908792+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.909153+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.910734+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.911059+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.929799+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.930318+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.932005+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.932294+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.951808+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.952190+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.953794+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.954027+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.973070+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.973680+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.975961+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.976263+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:11.993762+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:11.994271+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:11.996348+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:11.996710+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.015896+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.016397+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.018490+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.018876+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.036919+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.037426+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.039403+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.039839+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.057329+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.057759+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.059540+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.059851+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.077499+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.077850+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.079412+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.079754+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.098538+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.098909+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.100776+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.101093+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.120079+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.120554+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.122612+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.123114+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.141251+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.141630+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.143419+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.143997+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.162000+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.162361+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.163980+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.164244+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.183422+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.183914+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.185711+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.186063+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.205625+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.206063+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.207784+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.208102+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.225830+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.226394+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.228155+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.228621+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.246760+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.247207+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.248943+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.249213+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.268053+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.268456+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.270299+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.270580+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.290357+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.290953+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.292986+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.293404+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.313394+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.313849+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.315638+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.315975+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.334081+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.334596+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.336704+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.337310+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.355939+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.356382+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.358172+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.358445+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.377135+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.377493+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.379080+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.379380+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.396362+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.396904+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.398865+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.399302+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.418343+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.418695+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.420320+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.420548+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.441030+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.441414+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.443182+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.443444+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.462534+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.462878+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.464448+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.464750+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.482313+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.482747+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.484358+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.484596+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.502422+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.502938+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.505189+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.505716+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.523188+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.523736+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.525661+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.526035+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.546359+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.546696+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.548403+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.548846+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.567239+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.567662+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.569481+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.569810+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.588068+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.588423+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.590003+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.590247+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.610620+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.611093+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.613247+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.613757+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.633540+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.633939+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.635661+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.635953+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.655353+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.656003+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.658462+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.658750+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.676354+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.676813+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.678742+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.679076+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.698266+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.698625+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.700303+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.700557+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.719682+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.720224+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.722186+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.722647+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.740148+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.740684+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.742571+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.742977+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.762573+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.763003+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.764780+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.765058+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.783598+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.783968+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.785590+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.785871+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.804265+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.804619+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.806205+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.806448+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.823129+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.823579+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.825666+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.826246+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.844518+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.844948+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.846739+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.846985+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.864558+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.865071+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.866899+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.867322+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.887139+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.887722+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.889663+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.890273+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.911310+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.911705+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.913597+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.914063+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.931935+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.932504+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.934729+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.935291+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.955684+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.956064+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.957790+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.958131+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:12.980815+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:12.981508+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:12.983617+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:12.984171+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.007174+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.007875+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.009771+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.010263+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.030088+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.030530+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.032380+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.032923+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.055777+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.056299+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.058217+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.058719+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.079399+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.079802+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.081577+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.081920+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.101663+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.102139+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.103728+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.104003+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.125080+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.125543+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.127406+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.127758+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.149309+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.149960+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.152014+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.152501+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.173625+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.174010+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.175801+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.176196+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.199601+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.200066+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.201879+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.202223+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.225374+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.225725+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.227481+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.228085+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.246772+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.247301+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.248978+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.249274+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.269484+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.269922+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.271211+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.271481+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.290031+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.290514+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.292452+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.292832+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.311036+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.311447+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.313240+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.313559+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.331054+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.331570+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.333660+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.334061+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.353880+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.354306+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.356113+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.356495+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.372909+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.373266+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.374826+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.375185+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.392366+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.392729+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.394600+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.395254+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.415075+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.415508+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.417264+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.417619+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.439805+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.440405+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.442598+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.443002+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.464567+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.464957+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.466663+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.466941+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.485306+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.485670+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.487335+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.487704+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.507203+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.507793+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.509840+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.510261+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.532646+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.533266+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.535384+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.535878+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.558544+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.559004+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.560988+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.561410+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.579477+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.579859+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.581621+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.581901+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.601525+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.601880+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.603480+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.603811+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.626474+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.626954+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.628841+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.629186+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.650455+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.650904+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.652654+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.652891+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.676667+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.677308+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.679547+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.680060+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.699203+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.699698+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.701813+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.702175+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.720506+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.720955+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.722975+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.723357+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.742582+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.742960+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.744608+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.745013+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.765456+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.765956+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.767769+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.768133+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.787689+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.788068+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.789802+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.790188+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.808966+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.809481+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.811491+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.811881+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.830646+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.831133+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.833058+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.833421+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.854004+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.854386+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.856107+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.856514+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.876683+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.877131+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.879243+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.879687+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.898597+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.899039+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.901119+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.901508+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.918747+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.919245+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.921229+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.921594+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.941164+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.941614+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.943553+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.943896+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.965543+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.966078+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.968495+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.969108+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:13.989003+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:13.989402+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:13.991135+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:13.991543+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.008001+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.008547+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.010473+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.010890+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.030496+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.031003+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.032963+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.033361+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.052317+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.052811+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.054993+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.055337+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.073064+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.073582+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.075653+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.076053+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.094357+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.094832+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.096763+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.097136+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.115490+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.115905+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.117920+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.118395+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.136357+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.136704+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.138250+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.138481+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.156025+0900 INFO Binary segmentation shape: (256, 512)
+2024-07-31T19:03:14.156531+0900 INFO Instance segmentation shape: (256, 512, 4)
+2024-07-31T19:03:14.158438+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
+2024-07-31T19:03:14.158838+0900 ERROR Postprocess result does not contain mask image.
+2024-07-31T19:03:14.184996+0900 INFO Video processing complete.

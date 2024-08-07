@@ -1,0 +1,2 @@
+2024-07-31T23:06:04.010826+0900 INFO 비디오 처리를 시작합니다
+2024-07-31T23:06:08.968254+0900 ERROR Found array with 0 sample(s) (shape=(0, 4)) while a minimum of 1 is required by StandardScaler.
