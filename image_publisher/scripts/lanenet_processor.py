@@ -5,11 +5,11 @@ from cv_bridge import CvBridge, CvBridgeError
 import numpy as np
 import cv2
 import tensorflow as tf
-import os
 from lanenet_model.lanenet_model import lanenet, lanenet_postprocess
 from lanenet_model.local_utils.config_utils import parse_config_utils
 from lanenet_model.local_utils.log_util import init_logger
 from slidewindow_lanenet import SlideWindow_lanenet
+from std_msgs.msg import Float32
 
 # Config 파일 및 로그 설정
 CFG = parse_config_utils.lanenet_cfg
@@ -44,6 +44,9 @@ class LaneNetProcessor:
 
         self.slidewindow = SlideWindow_lanenet()
         self.subscriber = rospy.Subscriber('/camera/image', Image, self.image_callback)
+
+        # Publisher for x_location
+        self.pub_x_location = rospy.Publisher('/lane_x_location', Float32, queue_size=1)
 
     def image_callback(self, data):
         try:
@@ -92,6 +95,9 @@ class LaneNetProcessor:
 
         # 슬라이딩 윈도우 적용
         lane_line_markings, x_location, another_result = self.slidewindow.slidewindow(binary_image_warped, roi_flag=0)
+
+        # 결과를 ROS 토픽으로 발행
+        self.pub_x_location.publish(Float32(data=x_location))
 
         # 결과 출력
         cv2.imshow('Mask Image', cv2.cvtColor(mask_image, cv2.COLOR_RGB2BGR))
