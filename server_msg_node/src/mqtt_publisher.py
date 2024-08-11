@@ -2,7 +2,8 @@
 
 import rospy
 import paho.mqtt.client as mqtt
-from std_msgs.msg import String, Float32
+from std_msgs.msg import String, Float32, Int32
+from visualization_msgs.msg import MarkerArray
 from sensor_msgs.msg import Image
 import json
 from cv_bridge import CvBridge
@@ -26,9 +27,10 @@ class ROSMQTTPublisher:
 
         # ROS 토픽 구독
         self.bridge = CvBridge()
-        self.sub_string = rospy.Subscriber('/example_string', String, self.string_callback)
-        self.sub_float = rospy.Subscriber('/example_float', Float32, self.float_callback)
-        self.sub_image = rospy.Subscriber('/example_image', Image, self.image_callback)
+        self.lidar_sub = rospy.Subscriber('/detected_objects', MarkerArray, self.lidar_callback)
+        self.camera_sub = rospy.Subscriber('/lane_x_location', Float32, self.camera_callback)
+        self.motor_sub = rospy.Subscriber('/motor_cmd', Int32, queue_size=1)
+        self.servo_sub = rospy.Subscriber('/servo_cmd', Int32, queue_size=1)
 
         # MQTT 클라이언트의 루프를 별도의 스레드로 실행
         self.mqtt_client.loop_start()
