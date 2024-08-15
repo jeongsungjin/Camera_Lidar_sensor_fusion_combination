@@ -18,7 +18,7 @@ class SlideWindow_lanenet:
         self.lhd = 240
         self.left_cnt = 25
         self.right_cnt = 25
-        self.x_previous = 256
+        self.x_previous = 320
 
     def slidewindow(self, img, roi_flag):
         height = img.shape[0]
@@ -50,7 +50,7 @@ class SlideWindow_lanenet:
         win_r_w_r = width - 100
         circle_height = 100
 
-        road_width = 0.455
+        road_width = 0.55
         half_road_width = 0.5 * road_width
 
         # Draw initial sliding window boundaries

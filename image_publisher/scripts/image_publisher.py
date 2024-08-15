@@ -7,7 +7,7 @@ from sensor_msgs.msg import Image
 
 def publish_image():
     rospy.init_node('image_publisher', anonymous=True)
-    image_pub = rospy.Publisher('camera/image', Image, queue_size=10)
+    image_pub = rospy.Publisher('/camera/color/image_raw', Image, queue_size=10)
     bridge = CvBridge()
 
     # 비디오 캡처 객체 생성

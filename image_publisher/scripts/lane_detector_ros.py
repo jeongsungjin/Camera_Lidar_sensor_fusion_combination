@@ -7,7 +7,7 @@ import sys
 import os
 from std_msgs.msg import Float32
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), 'scripts')))
+sys.path.append('/home/ubuntu/catkin_ws/src/Camera_Lidar_sensor_fusion_combination/image_publisher/scripts')
 from slidewindow import SlideWindow
 
 class LaneDetectionROS:
@@ -15,16 +15,16 @@ class LaneDetectionROS:
         # ROS 노드 초기화
         rospy.init_node('lane_detection_ros', anonymous=True)
         self.bridge = CvBridge()
-        self.image_sub = rospy.Subscriber('/camera/image', Image, self.image_callback)
+        self.image_sub = rospy.Subscriber('/camera/color/image_raw', Image, self.image_callback)
 
         # SlideWindow 객체 초기화
         self.slidewindow = SlideWindow()
 
         # 초기 HSV 범위 설정
-        self.lower_yellow = np.array([20, 110, 40])
-        self.upper_yellow = np.array([53, 240, 255])
-        self.lower_white = np.array([10, 0, 214])
-        self.upper_white = np.array([82, 140, 255])
+        self.lower_yellow = np.array([179, 0, 0])
+        self.upper_yellow = np.array([93, 240, 255])
+        self.lower_white = np.array([10, 0, 245])
+        self.upper_white = np.array([179, 150, 255])
 
         # 트랙바 윈도우 생성
         cv2.namedWindow("Trackbars")
@@ -105,12 +105,12 @@ class LaneDetectionROS:
                 filtered_img = cv2.bitwise_and(frame_resized, frame_resized, mask=masks)
 
                 # Perspective Transform
-                left_margin = 250
-                top_margin = 320
-                src_point1 = [100, 460]      # 왼쪽 아래
+                left_margin = 225
+                top_margin = 250
+                src_point1 = [0, 360]      # 왼쪽 아래
                 src_point2 = [left_margin+20, top_margin]
                 src_point3 = [x-left_margin-20, top_margin]
-                src_point4 = [x -100, 460]  
+                src_point4 = [x , 360]  
 
                 src_points = np.float32([src_point1, src_point2, src_point3, src_point4])
 
