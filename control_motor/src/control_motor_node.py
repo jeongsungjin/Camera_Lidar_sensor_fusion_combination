@@ -74,7 +74,7 @@ class MotorController:
 
     def process_data(self):
         if self.x_location is not None:
-            pid = PID(1.0, 0.01, 0.1)  # PID 제어기 초기화
+            pid = PID(1.0, 0.003, 0.03 )  # PID 제어기 초기화
 
             # PID 제어를 통해 각도 계산
             angle = pid.pid_control(self.x_location - 320)
